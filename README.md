@@ -25,6 +25,7 @@ informação de alteração
 - git add . ou *
 - git commit -m ""
 - git push (para enviar as alterações para o repositório)
+- git pull (puxar/ trazer alterações do github para sua máquina)
 
 ## gitflow
 Fluxo do git
