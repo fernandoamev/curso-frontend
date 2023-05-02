@@ -17,6 +17,7 @@
 ## Criar conta no GitHub
 
 ## Clonar projeto
+https://github.com/fernandoamev/curso-frontend.git
 
 ## Commits
 informação de alteração
