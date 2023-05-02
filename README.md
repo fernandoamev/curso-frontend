@@ -28,4 +28,14 @@ informação de alteração
 - git pull (puxar/ trazer alterações do github para sua máquina)
 
 ## gitflow
-Fluxo do git
+- Fluxo do git
+
+### Branchs
+- São ramificações do código / versões paralelas
+
+- Main / Master (vai para produção / se torna público para o usuário)
+- Develop (versão em desenvolvimento)
+- DOD Definition of done: critérios de aceite
+- Versionmento 1.0.0
+
+
