@@ -109,7 +109,7 @@ nav a {
 section article {
     display: block;
     float: left;
-    width: 70%;
+    width: 60%;
 }
 
 footer {
@@ -129,4 +129,13 @@ footer p {
 footer small {
     font-size: 80%;
     display: block;
+}
+
+.cog-abuse {
+    visibility: hidden !important;
+}
+
+
+.cog-branding__powered {
+    visibility: hidden !important;
 }
