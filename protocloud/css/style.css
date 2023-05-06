@@ -35,6 +35,47 @@ p {
     line-height: 1.4;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#tenho-interesse {
+    background-color: #b8c8d6;
+}
+
+#tenho-interesse form,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css address,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css article,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css aside,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css audio,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css blockquote,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css canvas,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css div,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css fieldset,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css figcaption,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css figure,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css footer,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css h1,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css h2,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css h3,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css h4,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css h5,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css h6,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css header,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css hr,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css main,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css nav,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css ol,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css p,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css pre,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css section,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css ul,
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css video {
+    background-color: #b8c8d6 !important;
+}
+
 h1 {
     font-size: 2.4em;
     color: #254159;
@@ -135,7 +176,29 @@ footer small {
     visibility: hidden !important;
 }
 
+.cognito {
+    height: 380px !important;
+    overflow: hidden !important;
+}
 
-.cog-branding__powered {
-    visibility: hidden !important;
+
+
+img {
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+@media (max-width: 100%) {
+    table {
+        width: 100% !important;
+    }
+
+    .container {
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+}
+
+h1 {
+    font-size: 1.rem;
 }
